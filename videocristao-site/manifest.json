@@ -1,0 +1,20 @@
+{
+  "name": "Vídeos KIDS Bíblico",
+  "short_name": "Vídeos Cristãos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#18181b",
+  "theme_color": "#eab308",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/ffffff/000000?text=📖",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/ffffff/000000?text=📖",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
